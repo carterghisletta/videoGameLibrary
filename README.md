@@ -27,3 +27,45 @@ A C# console application that tracks a player's game library, including hours pl
 ---
 
 ## Example
+what is your username?
+carterghisletta
+what is your Level?
+100
+How many games would you like to add?
+2
+what is the title?
+call of duty 
+what is the genre?
+shooter 
+How many Hours Played?
+20
+Rating 1 out of 10
+10
+Is game completed? enter True/False: 
+true
+what is the title?
+madden
+what is the genre?
+football
+How many Hours Played?
+20
+Rating 1 out of 10
+10
+Is game completed? enter True/False: 
+true
+PLAYER INFO:
+Username: carterghisletta
+Level: 100
+Total Games: 2
+Total hours played: 40 
+GAME LIBRARY
+Title: call of duty
+Genre: shooter
+Hours Played: 20
+Rating: 10
+Completion: True
+Title: madden
+Genre: football
+Hours Played: 20
+Rating: 10
+Completion: True
