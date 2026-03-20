@@ -29,7 +29,7 @@ A C# console application that tracks a player's game library, including hours pl
 ## Example Output – Player Game Tracker
 
 When running the Player Game Tracker, the console might display:
-
+```bash
 what is your username?
 carterghisletta
 what is your Level?
