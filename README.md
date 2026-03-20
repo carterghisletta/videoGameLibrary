@@ -26,7 +26,10 @@ A C# console application that tracks a player's game library, including hours pl
 
 ---
 
-## Example
+## Example Output – Player Game Tracker
+
+When running the Player Game Tracker, the console might display:
+
 what is your username?
 carterghisletta
 what is your Level?
